@@ -12,3 +12,4 @@ index 69dfc16..dc341eb
      .app-sidebar {
        --#{$lte-prefix}sidebar-hover-bg: #{$lte-sidebar-hover-bg-dark};
        --#{$lte-prefix}sidebar-color: #{$lte-sidebar-color-dark};
+
